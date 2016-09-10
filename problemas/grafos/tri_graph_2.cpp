@@ -1,5 +1,5 @@
 #include <iostream>
-#include <vector>
+#include <vector>/Users/espinzonv/Documents/cpp_problems/problemas/grafos/tri_graph_2.cpp
 #include <queue>
 
 using namespace std;
